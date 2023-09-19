@@ -1,0 +1,3 @@
+﻿EmployeeID,EmployeeUserName,EmployeeStatus,FirstName,LastName,DisplayName,Alias,UPN,Country,Company,MobilePhone,EmployeeStartDateTime,EmployeeLeaveDateTime,EmployeeTerminationDateTime,EmployeeType,Manager,Office,OfficeStreetAddress,City,Region,PostalCode,Title,Department,CostCenter,Division
+101,wild.river@elven.no,Active,Wild,River,Wild River,wild.river,wild.river@elven.no,NO,Elven,+47 00000000,19.09.2023 08:00,,,Demo,flow.streaming@elven.no,Norway,,,,,Consultant,ExpertsLive,,
+100,flow.streaming@elven.no,Active,Flow,Streaming,Flow Streaming,flow.streaming,flow.streaming@elven.no,NO,Elven,+47 12345678,01.01.2023 08:00,,,Demo,,Norway,,,,,Manager,ExpertsLive,,
