@@ -1,0 +1,2 @@
+﻿EmployeeID,EmployeeUserName,EmployeeStatus,FirstName,LastName,DisplayName,Alias,UPN,Country,Company,MobilePhone,EmployeeStartDateTime,EmployeeLeaveDateTime,EmployeeTerminationDateTime,EmployeeType,Manager,Office,OfficeStreetAddress,City,Region,PostalCode,Title,Department,CostCenter,Division
+104,ola.nordmann@elven.no,Active,Ola,Nordmann,Ola Nordmann,ola.nordmann,ola.nordmann@elven.no,NO,Elven,+47 12345678,15.11.2024 07:00,,,Demo,flow.streaming@elven.no,Oslo,,,,,Consultant,NIC Empower 2024,,
