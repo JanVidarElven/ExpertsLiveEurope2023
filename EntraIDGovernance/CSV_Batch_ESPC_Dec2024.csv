@@ -1,0 +1,2 @@
+﻿EmployeeID,EmployeeUserName,EmployeeStatus,FirstName,LastName,DisplayName,Alias,UPN,Country,Company,MobilePhone,EmployeeStartDateTime,EmployeeLeaveDateTime,EmployeeTerminationDateTime,EmployeeType,Manager,Office,OfficeStreetAddress,City,Region,PostalCode,Title,Department,CostCenter,Division
+105,olof.medel-svensson@elven.no,Active,Olof,Medel-Svensson,Olof Medel-Svensson,olof.medel-svensson,olof.medel-svensson@elven.no,NO,Elven,+47 12345678,05.12.2024 07:00,,,Demo,flow.streaming@elven.no,Stockholm,,,,,Consultant,ESPC 2024,,
