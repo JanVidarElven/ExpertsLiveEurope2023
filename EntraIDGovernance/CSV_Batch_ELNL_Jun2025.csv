@@ -1,0 +1,2 @@
+﻿EmployeeID,EmployeeUserName,EmployeeStatus,FirstName,LastName,DisplayName,Alias,UPN,Country,Company,MobilePhone,EmployeeStartDateTime,EmployeeLeaveDateTime,EmployeeTerminationDateTime,EmployeeType,Manager,Office,OfficeStreetAddress,City,Region,PostalCode,Title,Department,CostCenter,Division
+107,jan.modaal@elven.no,Active,Jan,Modaal,Jan Modaal,jan.modaal,jan.modaal@elven.no,NL,Elven,+47 00000000,03.06.2025 07:00,,,Demo,flow.streaming@elven.no,Niuewegein,,,,,Consultant,ELNL 2025,,
